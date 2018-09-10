@@ -2,7 +2,13 @@
 Classwork02 Evaluation
 ======================
 
-Nice job on this assignment.
+Nice job on this assignment, with a couple of comments:
+
+There is a similar way to use a FileReader and BufferedFileReader as
+you have done in the TargetFile.java code with FileWriter.  Check the
+Java API for more details or just search on "reading files in java"
+for more information.  You can read line at a time or even the entire
+file using that method.
 
 scores:
 =============================
