@@ -78,7 +78,7 @@ public class IntList implements IntListInterface {
         return value;
     }
 
-   public void holeFiller( int index ) {
+    public void holeFiller( int index ) {
         for( int i = index; i < size - 1; i++ ) {
             theList[i] = theList[i+1];
         }
