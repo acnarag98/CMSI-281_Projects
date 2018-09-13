@@ -1,9 +1,9 @@
 /** ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
- * File name  :  MyFileCopier.java
+ * File name  :  IntList.java
  * Purpose    :  List Array Manipulation
  * @author    :  Andrew Narag
  * Date       :  2018-09-13
- * Description:  Implements several methods to change insert, append, and prepend int values into a list.
+ * Description:  Implements several methods to insert, append, and prepend int values into a list.
  * Notes      :  None
  * Warnings   :  None
  *
@@ -78,7 +78,7 @@ public class IntList implements IntListInterface {
         return value;
     }
 
-    private void holeFiller( int index ) {
+   public void holeFiller( int index ) {
         for( int i = index; i < size - 1; i++ ) {
             theList[i] = theList[i+1];
         }
