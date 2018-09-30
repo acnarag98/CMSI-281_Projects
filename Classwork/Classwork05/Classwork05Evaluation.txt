@@ -1,0 +1,28 @@
+
+Classwork05 Evaluation
+======================
+
+Nice job on this assignment, with a couple of comments:
+
+Nice work on this, nice test presentation on the output!
+You can always do a bit more testing, of course.  Keep up
+the great work.............
+
+scores:
+=============================
+IntLinkedList.java
+   compiles                [1.00]
+IntQueue.java
+   changed to Queue name   [1.00]
+   changed to enqueue()    [0.00]  left as "push"
+      this can be misleading to a maintainer later
+   changed to dequeue()    [1.00]
+IntQueueTester.java
+   test coverage (3)       [3.00]
+headers(3)                 [3.00]
+code style                 [1.00]
+
+total possible points      11 points
+
+you got 10 out of 11 which is 90.91% which is an A-minus
+
