@@ -1,5 +1,5 @@
 /** ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
- * File name  :  IntLinkedList.java
+ * File name  :  Queue.java
  * Purpose    :  Program that demonstrates queues
  * @author    :  Andrew Narag and Trevor Wong
  * Date       :  2018-10-18
