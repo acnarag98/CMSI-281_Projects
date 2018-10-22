@@ -1,5 +1,5 @@
 /** ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
- * File name  :  IntLinkedList.java
+ * File name  :  QueueApp.java
  * Purpose    :  Program that tests Queue.java
  * @author    :  Andrew Narag and Trevor Wong
  * Date       :  2018-10-18
