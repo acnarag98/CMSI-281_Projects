@@ -1,8 +1,8 @@
 /** ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
  * File name  :  SimonDisc.java
  * Purpose    :  Simon Disc game simulator
- * @author    :  Andrew Narag
- * Date       :  2018-09-20
+ * @author    :  Andrew Narag and Trevor Wong
+ * Date       :  2018-11-06
  * Description:  This java class simulates the Simon Disc game by comparing user input string arrays and
  *               stored input arrays of "color" sequences. Tested several times with user input. Test code
  *               unavailable as it relies on user input.
@@ -12,9 +12,9 @@
  *  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
  * Revision History
  * ================
- *   Ver      Date     Modified by:  Reason for change or modification
- *  -----  ----------  ------------  ---------------------------------------------------------------------
- *  1.0.0  2018-11-18  Andrew Narag  Initial release. In-class assignment.
+ *   Ver      Date     Modified by:                     Reason for change or modification
+ *  -----  ----------  ----------------------------  ---------------------------------------------------
+ *  1.0.0  2018-11-06  Trevor Wong and Andrew Narag  Initial release. Homework assignment.
  *  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
 import java.util.Scanner;
 
