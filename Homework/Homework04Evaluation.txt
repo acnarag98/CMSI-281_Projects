@@ -1,0 +1,76 @@
+
+Homework03 Evaluation
+======================
+
+You did pretty OK on this assignment...
+Here are a couple of observations and comments:
+
+Your code looks great and thanks for doing headers!
+
+There were some problems.  First, it was hard to tell which file
+was for which problem.  I had to search for "main(" to find what
+to run.  That didn't cost you any points, though.
+
+The string hash table worked for creation and insertion and did
+the linear probing correctly for insertion, but deletion didn't
+find repeated values in the linear probe so it would fail.  Find
+would also fail for the same reason.
+
+HashTableFoldingApp would not work.  No matter what I entered for
+key, it would blow up with a NumberFormatException.  I gave you
+1/2 credit for those because you wrote the code, but it doesn't
+work.  I was using 200 for the size, but when I did a "show" it
+only showed me two slots.
+
+HeapApp didn't really work very well either.  It goes into an
+infinite loop when you enter "show".  I can't tell if it is
+inserting or deleting on those operations.  Change is impossible
+to tell what the proper key is; for example trying to change the
+"50" to something else tells me it's invalid but gives me no
+indication of the range.
+
+These were from Trevor's repo.
+  
+
+scores:
+=============================
+Tree Traverser
+   inOrderTraverser method implemented       [1 pt.]
+   2 test sets with at least minimal nodes   [2 pt.]
+   produces proper sequences                 [2 pt.]
+
+Priority Queue
+   Queue creation works correctly            [1 pt.]
+   insertion works correctly                 [0.5 pt.]
+   isFull() works correctly                  [1 pt.]
+   isEmpty() works correctly                 [1 pt.]
+   removal() works correctly                 [0.5 pt.]
+   heap representation works correctly       [0.5 pt.]
+
+Linear Probing String Hasher
+   menu works                                [1 pt.]
+   shows contents                            [1 pt.]
+   hash table created correctly              [1 pt.]
+   insertion works correctly                 [1 pt.]
+   linear probing works correctly            [0.5 pt.]
+   deletion works correctly                  [0.5 pt.]
+   finding works correctly                   [0.5 pt.]
+
+Digit Folding Hasher
+   menu works                                [1 pt.]
+   shows contents                            [1 pt.]
+   insertion works correctly                 [0.5 pt.]
+   linear probing works correctly            [0.5 pt.]
+   deletion works correctly                  [0.5 pt.]
+   finding works correctly                   [0.5 pt.]
+
+Coding style                                 [1 pt.]
+Tests written to test all classes            [1 pt.]
+Headers in all files                         [4 pt.]
+
+Total credit is 33 points
+-------------------------
+
+you got 25 out of 30 which is 83.33% which is a B-minus
+but I'll round it up to an 84 so you have a solid B.
+
